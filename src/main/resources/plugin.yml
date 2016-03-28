@@ -1,0 +1,8 @@
+name: RailMount
+main: bluenova.railmount.RailMount
+version: 0.1
+commands:
+  minecart:
+    description: Mounting a player on the Rail
+    usage: /<command> <group>
+    aliases: [mct]
